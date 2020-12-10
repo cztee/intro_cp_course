@@ -1,7 +1,9 @@
 #include <iostream>
 using namespace std;
 
+//initialize the list
 int rlist[30]; 
+
 int table_random (int N)
 
 { int p[100] ={48, 74, 49, 35, 34,  8, 42, 29, 11, 39,
